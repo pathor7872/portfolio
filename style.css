@@ -351,6 +351,10 @@ section{
     width:70vw;
 }
 
+.home .social-media{
+	display: flex;
+	justify-content: center;
+}
 }
 
 @media (max-width:450px){
@@ -362,9 +366,5 @@ html{
 .home-img img,
 .about-img img{
     width:90vw;
-}
-.home .social-media{
-	display:flex;
-	justify-content:center;
 }
 }
