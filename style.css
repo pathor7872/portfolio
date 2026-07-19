@@ -112,7 +112,6 @@ section{
     display:flex;
     gap:1.5rem;
     margin:2rem 0;
-	justify-content:center;
 }
 
 .social-media a{
@@ -364,5 +363,8 @@ html{
 .about-img img{
     width:90vw;
 }
-
+.home .social-media{
+	display:flex;
+	justify-content:center;
+}
 }
