@@ -112,6 +112,7 @@ section{
     display:flex;
     gap:1.5rem;
     margin:2rem 0;
+	justify-content:center;
 }
 
 .social-media a{
